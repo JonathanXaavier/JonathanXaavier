@@ -1,7 +1,4 @@
 ## Olá, seja bem vindo(a)! Eu sou o Jonathan Xavier 👋
-<a href="jonathan.sxavier@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" 
-    target="_blank"></a>
 <a href="https://www.instagram.com/jonathanxaavier" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
     target="_blank"></a>
