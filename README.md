@@ -1,6 +1,6 @@
-<h1> Olá, seja bem vindo(a)! Eu sou o Jonathan Xavier 👋 </h1>
+<h1> Olá, eu sou o Jonathan Xavier 👋 </h1>
 
-Redes Sociais
+<h2> Redes Sociais </h2>
 
 <div>
    </a>
